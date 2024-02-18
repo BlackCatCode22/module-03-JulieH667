@@ -2,8 +2,10 @@ package mystudent;
 
 public class Student {
     String firstName;
-    String lastname;
+    String lastName;
     double gpa;
     String major;
-    String city;
+    int age;
+    boolean onProbation;
+
 }
